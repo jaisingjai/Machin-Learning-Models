@@ -67,8 +67,29 @@ Source: All these data sets are made up of data from the US government. https://
 
 
 # 12-- Hierarchical Clustering 
-# 13-- PCA 
-# 14-- LDA 
+
+# 13-- DBSCAN Project  
+
+## The Data
+
+
+Source: https://archive.ics.uci.edu/ml/datasets/Wholesale+customers
+
+Margarida G. M. S. Cardoso, margarida.cardoso '@' iscte.pt, ISCTE-IUL, Lisbon, Portugal
+
+
+Relevant Papers:
+
+Cardoso, Margarida G.M.S. (2013). Logical discriminant models â€“ Chapter 8 in Quantitative Modeling in Marketing and Management Edited by Luiz Moutinho and Kun-Huang Huarng. World Scientific. p. 223-253. ISBN 978-9814407717
+
+Jean-Patrick Baudry, Margarida Cardoso, Gilles Celeux, Maria JosÃ© Amorim, Ana Sousa Ferreira (2012). Enhancing the selection of a model-based clustering with external qualitative variables. RESEARCH REPORT NÂ° 8124, October 2012, Project-Team SELECT. INRIA Saclay - ÃŽle-de-France, Projet select, UniversitÃ© Paris-Sud 11
+
+
+
+-----
+
+# 14-- PCA 
+# 15-- LDA 
 Data Set Information from Original Authors:¶
 We create a digit database by collecting 250 samples from 44 writers. The samples written by 30 writers are used for training, cross-validation and writer dependent testing, and the digits written by the other 14 are used for writer independent testing. This database is also available in the UNIPEN format.
 
@@ -79,6 +100,6 @@ We use a WACOM PL-100V pressure sensitive tablet with an integrated LCD display 
 These writers are asked to write 250 digits in random order inside boxes of 500 by 500 tablet pixel resolution. Subject are monitored only during the first entry screens. Each screen contains five boxes with the digits to be written displayed above. Subjects are told to write only inside these boxes. If they make a mistake or are unhappy with their writing, they are instructed to clear the content of a box by using an on-screen button. The first ten digits are ignored because most writers are not familiar with this type of input devices, but subjects are not aware of this.
 SOURCE: https://archive.ics.uci.edu/ml/datasets/Pen-Based+Recognition+of+Handwritten+Digits
 
-# 15-- Time Series (ARIMA, SARIMA).
+# 16-- Time Series (ARIMA, SARIMA).
 I am predicting aripassengs for next 5 yeras using forcast of ARIMA and SSARIMAstatistical models. you can find my dataset from above link or search for AirPassengers.csv for time series forcasting on Google.
 Dataset: https://github.com/AileenNielsen/TimeSeriesAnalysisWithPython/blob/master/data/AirPassengers.csv
