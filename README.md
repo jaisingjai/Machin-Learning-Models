@@ -6,6 +6,7 @@ Ames, Iowa: Alternative to the Boston Housing Data as an End of Semester Regress
 
 # Logistic Regression
 This database contains 14 physical attributes based on physical testing of a patient. Blood samples are taken and the patient also conducts a brief exercise test. The "goal" field refers to the presence of heart disease in the patient. It is integer (0 for no presence, 1 for presence). In general, to confirm 100% if a patient has heart disease can be quite an invasive process, so if we can create a model that accurately predicts the likelihood of heart disease, we can help avoid expensive and invasive procedures.
+Original Source: https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
 # K -Nearest Neighbor 
 ### Detecting a Rock or a Mine
@@ -29,6 +30,7 @@ Data Source: https://archive.ics.uci.edu/ml/datasets/Mushroom
 # Adaboost 
 # Graidient Boost
 This data set includes descriptions of hypothetical samples corresponding to 23 species of gilled mushrooms in the Agaricus and Lepiota Family (pp. 500-525). Each species is identified as definitely edible, definitely poisonous, or of unknown edibility and not recommended. This latter class was combined with the poisonous one. The Guide clearly states that there is no simple rule for determining the edibility of a mushroom; no rule like ``leaflets three, let it be'' for Poisonous Oak and Ivy.
+Data Source: https://archive.ics.uci.edu/ml/datasets/Mushroom
 
 # Text Classification NLP 
 Goal: Given a set of text movie reviews that have been labeled negative or positive
