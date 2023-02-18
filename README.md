@@ -24,6 +24,7 @@ Data were collected and made available by Dr. Kristen Gorman and the Palmer Stat
 We will be using the same dataset through our discussions on classification with tree-methods (Decision Tree,Random Forests, and Gradient Boosted Trees) in order to compare performance metrics across these related models.
 We will work with the "Palmer Penguins" dataset, as it is simple enough to help us fully understand how changing hyperparameters can change classification results.
 Data were collected and made available by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network.
+Data Source: https://archive.ics.uci.edu/ml/datasets/Mushroom
 
 # Adaboost 
 # Graidient Boost
@@ -36,6 +37,7 @@ For more information on this dataset visit http://ai.stanford.edu/~amaas/data/se
 # K -Means 
 Goal:
 Gain insights into similarity between countries and regions of the world by experimenting with different cluster amounts. What do these clusters represent? Note: There is no 100% right answer, make sure to watch the video for thoughts.
+Source: All these data sets are made up of data from the US government. https://www.cia.gov/library/publications/the-world-factbook/docs/faqs.html
 
 
 # Hierarchical Clustering 
@@ -48,6 +50,8 @@ We use a WACOM PL-100V pressure sensitive tablet with an integrated LCD display 
   tablet coordinates and pressure level values of the pen at fixed time intervals (sampling rate) of 100 miliseconds.
 
 These writers are asked to write 250 digits in random order inside boxes of 500 by 500 tablet pixel resolution. Subject are monitored only during the first entry screens. Each screen contains five boxes with the digits to be written displayed above. Subjects are told to write only inside these boxes. If they make a mistake or are unhappy with their writing, they are instructed to clear the content of a box by using an on-screen button. The first ten digits are ignored because most writers are not familiar with this type of input devices, but subjects are not aware of this.
+SOURCE: https://archive.ics.uci.edu/ml/datasets/Pen-Based+Recognition+of+Handwritten+Digits
 
 # Time Series (ARIMA, SARIMA).
 I am predicting aripassengs for next 5 yeras using forcast of ARIMA and SSARIMAstatistical models. you can find my dataset from above link or search for AirPassengers.csv for time series forcasting on Google.
+Dataset: https://github.com/AileenNielsen/TimeSeriesAnalysisWithPython/blob/master/data/AirPassengers.csv
