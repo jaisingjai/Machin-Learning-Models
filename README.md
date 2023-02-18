@@ -36,6 +36,30 @@ Data Source: https://archive.ics.uci.edu/ml/datasets/Mushroom
 Goal: Given a set of text movie reviews that have been labeled negative or positive
 For more information on this dataset visit http://ai.stanford.edu/~amaas/data/sentiment/
 
+# Supervise Learning Model for Classification
+# Supervised Learning Capstone Project - Tree Methods Focus - SOLUTIONS
+
+
+
+## Make sure to review the introduction video to understand the 3 ways of approaching this project exercise!
+
+----
+
+**Ways to approach the project:**
+   1. Open a new notebook, read in the data, and then analyze and visualize whatever you want, then create a predictive model.
+   2. Use this notebook as a general guide, completing the tasks in bold shown below.
+   3. Skip to the solutions notebook and video, and treat project at a more relaxing code along walkthrough lecture series.
+
+------
+------
+
+## GOAL: Create a model to predict whether or not a customer will Churn .
+
+----
+----
+
+
+
 # K -Means 
 Goal:
 Gain insights into similarity between countries and regions of the world by experimenting with different cluster amounts. What do these clusters represent? Note: There is no 100% right answer, make sure to watch the video for thoughts.
